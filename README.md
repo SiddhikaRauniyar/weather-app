@@ -1,12 +1,12 @@
-# 🌤️ Weather App
+#  Weather App
 
 A Python app that fetches real-time weather data for any city using the OpenWeatherMap API.
 
 ## Features
-- 🌡️ Current temperature and feels-like temperature
-- 🌤️ Weather description
-- 💧 Humidity levels
-- 🌍 Works for any city in the world
+-  Current temperature and feels-like temperature
+-  Weather description
+-  Humidity levels
+-  Works for any city in the world
 
 ## How to Run
 
@@ -23,4 +23,4 @@ A Python app that fetches real-time weather data for any city using the OpenWeat
 - Requests library
 
 ## Author
-Siddhika Rauniyar — IOE ERC, Computer Engineering
+Siddhika Rauniyar — IOE ERC, Computer Engineering            : PUR082BCT082
